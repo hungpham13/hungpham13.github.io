@@ -4,4 +4,5 @@ email: tonic1307@gmail.com
 description: Hellooo, I'm Hung
 github_username: hungpham13
 
-theme: jekyll-theme-cayman
+markdown: kramdown
+theme: minimal
