@@ -4,9 +4,13 @@ You can use the [editor on GitHub](https://github.com/hungpham13/hungpham13.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Spotify playlist for studying
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<iframe 
+        style="border-radius:12px" src="https://open.spotify.com/embed/playlist/02jNvFemUbILsSXlvDR3rl?utm_source=generator" 
+        width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+        ></iframe>
+
 
 ```markdown
 Syntax highlighted code block
