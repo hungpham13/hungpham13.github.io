@@ -4,6 +4,9 @@ You can use the [editor on GitHub](https://github.com/hungpham13/hungpham13.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Old but Gold
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLkwJmxLtnE-htogUvXYVNjU8TiAvtOU_9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Spotify playlist for studying
 
 <iframe 
