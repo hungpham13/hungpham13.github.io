@@ -5,4 +5,4 @@ description: Hellooo, I'm Hung
 github_username: hungpham13
 
 markdown: kramdown
-theme: minimal
+theme: jekyll-theme-cayman
