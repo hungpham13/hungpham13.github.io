@@ -14,9 +14,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
         width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
         ></iframe>
 
-### 8-pool
-
-<iframe src="//static.miniclipcdn.com/js/game-embed.js" width="100%" height="640"></iframe>
 
 ```python
 Syntax highlighted code block
